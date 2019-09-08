@@ -1,7 +1,7 @@
 ---
+title: Markdown sample
+date: 2016-09-04 00:00:00 Z
 layout: post
-title:  "Markdown sample"
-date:   2016-09-04
 ---
 
 ### Markdown test document

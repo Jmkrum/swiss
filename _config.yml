@@ -9,12 +9,12 @@ collections:
     title: Uploads
     output: true
 description: A bold typographic theme inspired by Swiss design.
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 github_repo: jekyll
 github_username: jekyll
 social_link: twitter
+theme_color: "#e952e9"
 social_username: jekyllrb
-theme_color: black
 markdown: kramdown
 repository: jmkrum/swiss

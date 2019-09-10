@@ -14,7 +14,7 @@ url:
 github_repo: jekyll
 github_username: jekyll
 social_link: twitter
-theme_color: blue
+theme_color: 
 social_username: jekyllrb
 markdown: kramdown
 repository: jmkrum/swiss
